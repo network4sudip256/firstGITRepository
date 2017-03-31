@@ -1,0 +1,3 @@
+# This is a file which is of TEXT format
+The name of this file is "GITDynaFile-7.txt"
+EOF
